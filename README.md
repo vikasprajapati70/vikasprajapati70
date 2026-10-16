@@ -55,9 +55,6 @@
 
 ⭐ **Thanks for visiting my profile! Keep coding and keep growing.**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikasprajapati70&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikas_prajapati_ah1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-kumar-prajapati-01250a391) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vikas_ah2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikaskprajapati70@gmail.com) 
